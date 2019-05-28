@@ -1,4 +1,4 @@
-# Fish_Detector
+# Fish Detector
 **Tēma:** Atsevīšķu tēlu atpazīšana no vairākiem līdzīgiem objektiem\
 **Darba veids:** Bakaulaura darbs\
 **Autors:** Artjoms Lužnovs\
