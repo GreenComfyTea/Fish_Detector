@@ -60,3 +60,4 @@ C:\Users\GreenTea\Documents\GitHub\Fish_Detector\Fish_Detector\Fish_Detector\obj
 C:\Users\GreenTea\Documents\GitHub\Fish_Detector\Fish_Detector\Fish_Detector\obj\Release\Fish_Detector.csproj.CopyComplete
 C:\Users\GreenTea\Documents\GitHub\Fish_Detector\Fish_Detector\Fish_Detector\obj\Release\Fish_Detector.exe
 C:\Users\GreenTea\Documents\GitHub\Fish_Detector\Fish_Detector\Fish_Detector\obj\Release\Fish_Detector.pdb
+C:\Users\GreenTea\Documents\GitHub\Fish_Detector\Fish_Detector\Fish_Detector\obj\Release\Fish_Detector.csprojAssemblyReference.cache

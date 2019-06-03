@@ -100,6 +100,11 @@ namespace Fish_Detector
 			return bitmapSource;
 		}
 
+		public static void ReloadResultImage()
+		{
+			resultMatImage = originalMatImage.Clone();
+		}
+
 		public static bool IsImageLoaded()
 		{
 			return resultMatImage != null;
