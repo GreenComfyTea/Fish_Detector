@@ -64,7 +64,7 @@ namespace Fish_Detector
 				
 			Stopwatch stopwatch = Stopwatch.StartNew();
 			Preprocessing();
-			preprocessingImage.Source = EmguCV.GetResultBitmap();
+			preprocessingImage.Source = EmguCV.GetOriginalBitmap();
 			stopwatch.Stop();
 
 			preprocessingTimeTextBox.Text = stopwatch.ElapsedMilliseconds.ToString();
