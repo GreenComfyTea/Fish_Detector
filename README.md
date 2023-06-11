@@ -1,10 +1,6 @@
-# Fish Detector
-**Tēma:** Atsevīšķu tēlu atpazīšana no vairākiem līdzīgiem objektiem\
-**Darba veids:** Bakaulaura darbs\
-**Autors:** Artjoms Lužnovs\
-**Zinātniskais vadītājs:** Artjoms Supoņenkovs\
-**Struktūrvienība:** Rīgas Tehniskā universitāte, Datorzinātnes un informācijas tehnoloģijas fakultāte, Datorvadības, automātikas un   datortehnikas institūts, Datorvadības sistēmu katedra\
-**Gads:** 2019
+<p align="center">
+	<h2 align="center"><b>Fish Detector</b></h2>
+</p>
 
 <p align="center">
 	<a href="https://github.com/greencomfytea/fish_detector/graphs/contributors">
@@ -94,3 +90,10 @@
 		<img alt="Written in" src="https://custom-icon-badges.demolab.com/badge/written%20in-c%23-178600?logo=terminal" />
 	</a>
 </p>
+
+**Tēma:** Atsevīšķu tēlu atpazīšana no vairākiem līdzīgiem objektiem\
+**Darba veids:** Bakaulaura darbs\
+**Autors:** [REDACTED]
+**Zinātniskais vadītājs:** Artjoms Supoņenkovs\
+**Struktūrvienība:** Rīgas Tehniskā universitāte, Datorzinātnes un informācijas tehnoloģijas fakultāte, Datorvadības, automātikas un   datortehnikas institūts, Datorvadības sistēmu katedra\
+**Gads:** 2019
