@@ -30,12 +30,34 @@
 	</a>
 	<br>
 	<br>
+	<a href="https://github.com/greencomfytea/fish_detector/commits/main">
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/fish_detector?logo=git-commit" />
+	</a>
+	<a href="https://github.com/greencomfytea/fish_detector/commits/main">
+		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/fish_detector?logo=git-commit" />
+	</a>
+	<br>
+	<a href="https://github.com/greencomfytea/fish_detector/graphs/commit-activity">
+		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/fish_detector?logo=pulse" />
+	</a>
+	<a href="https://github.com/greencomfytea/fish_detector/graphs/commit-activity">
+		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/greencomfytea/fish_detector?logo=pulse" />
+	</a>
+	<a href="https://github.com/greencomfytea/fish_detector/graphs/commit-activity">
+		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/fish_detector?logo=pulse" />
+	</a>
+	<br>
+	<br>
 	<a href="">
 		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/fish_detector?logo=database" />
 	</a>
 	<a href="">
+		<img alt="Line Count" src="https://sloc.xyz/github/greencomfytea/fish_detector" />
+	</a>
+	<a href="">
 		<img alt="Goto Counter" src="https://custom-icon-badges.demolab.com/github/search/greencomfytea/fish_detector/goto?logo=git-compare" />
 	</a>
+	<br>
 	<a href="https://github.com/sponsors/greencomfytea">
 		<img alt="Sponsors" src="https://custom-icon-badges.demolab.com/github/sponsors/greencomfytea?logo=heart" />
 	</a>
@@ -50,23 +72,6 @@
 	</a>
 	<a href="https://github.com/greencomfytea/fish_detector/graphs/traffic">
 		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/fish_detector.json?color=blue&logo=eye" />
-	</a>
-	<br>
-	<a href="https://github.com/greencomfytea/fish_detector/commits/main">
-		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/fish_detector?logo=git-commit" />
-	</a>
-	<a href="https://github.com/greencomfytea/fish_detector/commits/main">
-		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/fish_detector?logo=git-commit" />
-	</a>
-	<br>
-	<a href="https://github.com/greencomfytea/fish_detector/graphs/commit-activity">
-		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/fish_detector?logo=pulse" />
-	</a>
-	<a href="https://github.com/greencomfytea/fish_detector/graphs/commit-activity">
-		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/greencomfytea/fish_detector?logo=pulse" />
-	</a>
-	<a href="https://github.com/greencomfytea/fish_detector/graphs/commit-activity">
-		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/fish_detector?logo=pulse" />
 	</a>
 	<br>
 	<br>
